@@ -1,2 +1,2 @@
 # Demostration-Website
-A Demonstrative Website 
+A Web Page for demonstration purposes
